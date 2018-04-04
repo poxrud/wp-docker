@@ -5,7 +5,7 @@ Launches php, mysql, phpmyadmin and WordPress.
 
 ## Prerequisites
 Please make sure that you have Docker installed and running. 
-On my mac I it installed using: 
+On my mac I installed it using: 
 
 ``` 
 brew cask install docker 
